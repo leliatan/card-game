@@ -1,5 +1,5 @@
-# card-game
+##### card-game
 
-Draw two cards
-Player with higher card wins
-Tied cards results in WAR!
+1. Draw two cards
+2. Player with higher card wins
+3. Tied cards results in WAR!
